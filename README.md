@@ -1,4 +1,5 @@
 # telegram-news-channel
+![Result](./images/result.png)
 
 ## ToC:
 - [Introduction](#introduction)
